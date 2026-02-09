@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 My name is yuvaprasath<br>Software Developer<br>🌱 I’m currently learning AI, AWS<br>💬 Ask me about React JS
+Hi 👋 I'm yuvaprasath<br>Software Developer<br>🌱 I’m currently learning AI, AWS<br>💬 Ask me about React JS
 
 
 ## 🌐 Socials:
